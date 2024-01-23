@@ -1,0 +1,4 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+data/dsdm filter=lfs diff=lfs merge=lfs -text
+data/dsir filter=lfs diff=lfs merge=lfs -text
+data/classifier filter=lfs diff=lfs merge=lfs -text

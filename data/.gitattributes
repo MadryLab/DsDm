@@ -1,0 +1,11 @@
+sdd.pt filter=lfs diff=lfs merge=lfs -text
+dsdm/lambada.pt filter=lfs diff=lfs merge=lfs -text
+dsir/cs_algorithms.pt filter=lfs diff=lfs merge=lfs -text
+dsdm/jeopardy.pt filter=lfs diff=lfs merge=lfs -text
+dsdm/squad.pt filter=lfs diff=lfs merge=lfs -text
+dsir/gpt3_mix.pt filter=lfs diff=lfs merge=lfs -text
+dsir/jeopardy.pt filter=lfs diff=lfs merge=lfs -text
+dsir/lambada.pt filter=lfs diff=lfs merge=lfs -text
+dsir/lm_task_mix.pt filter=lfs diff=lfs merge=lfs -text
+dsir/squad.pt filter=lfs diff=lfs merge=lfs -text
+dsdm/cs_algorithms.pt filter=lfs diff=lfs merge=lfs -text

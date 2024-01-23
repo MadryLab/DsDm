@@ -1,0 +1,6 @@
+cs_algorithms.pt filter=lfs diff=lfs merge=lfs -text
+gpt3_mix.pt filter=lfs diff=lfs merge=lfs -text
+jeopardy.pt filter=lfs diff=lfs merge=lfs -text
+lambada.pt filter=lfs diff=lfs merge=lfs -text
+lm_task_mix.pt filter=lfs diff=lfs merge=lfs -text
+squad.pt filter=lfs diff=lfs merge=lfs -text
