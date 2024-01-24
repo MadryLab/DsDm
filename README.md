@@ -5,7 +5,7 @@
   <img src='img/shoggoth.png' title="modified from https://twitter.com/repligate/status/1614416190025396224" width='40%'/>
 </p>
 <p align='center'>
-[<a href="TODO">blog post</a>]
+[<a href="https://gradientscience.org/dsdm">blog post</a>]
 [<a href="https://arxiv.org/abs/2401.12926">paper</a>]
 [<a href="#installation">install</a>]
 [<a href="#datasets">datasets</a>]
